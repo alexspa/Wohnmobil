@@ -28,6 +28,15 @@
 2. Verbraucher Sicherung
     1. 12V Netz
         - I: 12V KFZ-Flachsicherungen
+3. Hauptschalter
+
+
+### Schalter
+- ?: Schalter für Kühlbox
+
+### Batterie Anschluss
+- I: Polklemmen
+- I: 
 
 ### Verbraucher:
 1. Kleinverbraucher
