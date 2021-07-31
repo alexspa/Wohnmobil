@@ -97,3 +97,17 @@
 - I: 12V und 230V innerhalb verschiedener Verteilerdose
 - I: Solarregler sorgt dafür dass die Verbraucher direkt über die Sonne beliefert werden und nicht über die Batterie
 - ! Wie sieht das für Landstrom aus?
+- ? Ist die Starterbatterie nach hinten abgesichert?
+- ? Hat die Starterbatterie einen Entlüftungsschlauch
+
+
+### Bauteile 
+1. 12 V
+   - Trennrelias 
+   - 12 V Sicherungsautomat
+   - 12V Hauptschalter
+2. 230 V
+   - 220V FI Schalter + 220V Sicherungsautomat
+   - 220V Umschalter
+   - Batteriepolklemmen mit Abzweigung
+
