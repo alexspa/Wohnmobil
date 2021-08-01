@@ -5,6 +5,16 @@
 - !: Aufgabe 
 - I: Info
 
+## Infos 
+- I: Hersteller: Peugeot
+- I: Typ: Boxer HDI 3.0 
+- I: Leistung: 158 Ps
+- I: Erstzulassung: 2008
+- I: Größe: L2H2 
+- I: Modellreihe: 335
+- I: HSN: 3003
+- I: TSN: AEJ
+
 ## Todos
 - [ ] !: Service
 	- [ ] ?: Batterieflüssigkeit nachfüllen?
