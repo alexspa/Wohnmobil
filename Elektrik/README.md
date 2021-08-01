@@ -1,13 +1,9 @@
 # Elektrik Wohnmobilausbau
 
-## Legende
-- ?: Zu klärende Frage
-- !: Aufgabe 
-- I: Info
-
 ## Quellen
 - I: https://campofant.com/wohnmobil-elektrik-selbstausbau/
 - I: https://outdoornomaden.de/camper-elektrik/
+- I: 12V Laptop Laden: https://www.amumot.de/laptop-im-auto-laden-12v-netzteil/
 
 ## Ausstattung
     - 230V ?

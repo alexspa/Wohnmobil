@@ -1,13 +1,22 @@
 #WoMo
 
+## Legende
+- ?: Zu klärende Frage
+- !: Aufgabe 
+- I: Info
+
 ##Todos
 
-- [ ] Mercury 
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars 
-- [ ] Jupiter 
-- [ ] Saturn 
-- [ ] Uranus 
-- [ ] Neptune 
-- [ ] Comet Haley
+- [ ] Luftfilterwechsel
+- [ ] Kraftstoffilterwechsl 
+- [ ] Ölwechsel + Ölfilterwechsel
+- [ ] Kühlflüssigkeit
+- [ ] Rostbehandlung
+- [ ] Untergestell
+- [ ] Seitengestell
+- [ ] Strom 
+- [ ] Dämmen
+- [ ] Heizen
+- [ ] Wasser
+- [ ] Innenausbau
+- [ ] Gaßbehälter
