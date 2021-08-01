@@ -5,18 +5,20 @@
 - !: Aufgabe 
 - I: Info
 
-##Todos
+## Todos
 
-- [ ] Luftfilterwechsel
-- [ ] Kraftstoffilterwechsl 
-- [ ] Ölwechsel + Ölfilterwechsel
-- [ ] Kühlflüssigkeit
-- [ ] Rostbehandlung
-- [ ] Untergestell
-- [ ] Seitengestell
-- [ ] Strom 
-- [ ] Dämmen
-- [ ] Heizen
-- [ ] Wasser
-- [ ] Innenausbau
-- [ ] Gaßbehälter
+- [ ] ?: Batterieflüssigkeit nachfüllen?
+- [X] I: Luftfilterwechsel 01.08.2021
+- [x] I: Pollenfilterwechsel 01.08.2021
+- [ ] !: Kraftstoffilterwechsl 
+- [ ] !: Ölwechsel + Ölfilterwechsel
+- [ ] !: Kühlflüssigkeit
+- [ ] !: Rostbehandlung
+- [ ] !: Untergestell
+- [ ] !: Seitengestell
+- [ ] !: Strom 
+- [ ] !: Dämmen
+- [ ] !: Heizen
+- [ ] !: Wasser
+- [ ] !: Innenausbau
+- [ ] !: Gaßbehälter

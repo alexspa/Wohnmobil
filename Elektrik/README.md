@@ -4,6 +4,7 @@
 - I: https://campofant.com/wohnmobil-elektrik-selbstausbau/
 - I: https://outdoornomaden.de/camper-elektrik/
 - I: 12V Laptop Laden: https://www.amumot.de/laptop-im-auto-laden-12v-netzteil/
+- I: Doppelbatteriesystem: https://matsch-und-piste.de/doppelt-haelt-besser-doppelbatteriesystem-die-technik-im-ueberblick/
 
 ## Ausstattung
     - 230V ?
