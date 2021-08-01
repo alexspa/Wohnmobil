@@ -6,19 +6,25 @@
 - I: Info
 
 ## Todos
+- [ ] !: Service
+	- [ ] ?: Batterieflüssigkeit nachfüllen?
+	- [X] I: Luftfilterwechsel 01.08.2021 220.000km
+	- [x] I: Pollenfilterwechsel 01.08.2021 220.000km
+	- [ ] !: Kraftstoffilterwechsl 
+	- [x] !: Ölwechsel + Ölfilterwechsel 01.08.2021 220.000km
+	- [ ] !: Kühlflüssigkeit
 
-- [ ] ?: Batterieflüssigkeit nachfüllen?
-- [X] I: Luftfilterwechsel 01.08.2021
-- [x] I: Pollenfilterwechsel 01.08.2021
-- [ ] !: Kraftstoffilterwechsl 
-- [ ] !: Ölwechsel + Ölfilterwechsel
-- [ ] !: Kühlflüssigkeit
-- [ ] !: Rostbehandlung
-- [ ] !: Untergestell
-- [ ] !: Seitengestell
 - [ ] !: Strom 
-- [ ] !: Dämmen
+	- [ ] !: Solar
+	- [ ] !: Landstrom
+	- [ ] !: Lichtmaschiene
+- [ ] !: Innenausbau
+	- [ ] !: Dämmen
+	- [ ] !: Rostbehandlung
+	- [ ] !: Unterbau Boden
+	- [ ] !: Unterbau Seiten
+	- [ ] !: Unterbau Dach
 - [ ] !: Heizen
 - [ ] !: Wasser
-- [ ] !: Innenausbau
-- [ ] !: Gaßbehälter
+- [ ] !: Gaß
+	- [ ] !: Gaßbehälter

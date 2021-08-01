@@ -21,10 +21,24 @@
 - I: Datum: 01.08.2021
 
 ## Kraftstofffilter
-
+- I: Kilometerstand: 
+- I: Datum:
 
 ## Kupplung
 - I: Kilometerstand: 190.000km 
 - I: Datum: ~2018-2019
+
+## Bremsklötze
+- I: Kilometerstand: 
+- I: Datum:
+
+## Bremsscheiben
+- I: Kilometerstand: 
+- I: Datum:
+
+## Reifen
+- I: Kilometerstand: 
+- I: Datum:
+
 
 
