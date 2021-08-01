@@ -1,4 +1,4 @@
-#WoMo
+# WoMo
 
 ## Legende
 - ?: Zu klärende Frage
