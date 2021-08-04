@@ -22,8 +22,10 @@
 	- [x] I: Pollenfilterwechsel 01.08.2021 220.000km
 	- [ ] !: Kraftstoffilterwechsl 
 	- [x] !: Ölwechsel + Ölfilterwechsel 01.08.2021 220.000km
-	- [ ] !: Kühlflüssigkeit
-
+	- [x] !: Kühlflüssigkeit
+  -[x] !: Getriebeöl 
+  -[x] ?: Getriebeölfilter
+ 
 - [ ] !: Strom 
 	- [ ] !: Solar
 	- [ ] !: Landstrom
