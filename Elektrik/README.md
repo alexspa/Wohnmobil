@@ -96,7 +96,7 @@
 - ! Wie sieht das für Landstrom aus?
 - ? Ist die Starterbatterie nach hinten abgesichert?
 - ? Hat die Starterbatterie einen Entlüftungsschlauch
-
+- XT60 stecker für viel strom
 
 ### Bauteile 
 1. 12 V
