@@ -1,9 +1,9 @@
 # Standheizungen:
-	- Standheizung 96€: https://www.ebay.de/itm/203508098462?_trkparms=ispr%3D1&hash=item2f6207259e:g:x~gAAOSwoKBfxhjD&amdata=enc%3AAQAGAAACkPYe5NmHp%252B2JMhMi7yxGiTJkPrKr5t53CooMSQt2orsSjVt3vLKCbov98Z19qhuwY8ZPVWWzpboxFt3hi%252B6Fhh4XhZppRnwsD2FuVg4V2A2Q6zyP0DGOoo%252Fp4trg%252FXRZmNsRO%252FIJ6YtDvDFbLFtRh0VYyJWxzqoOCHY9TrZRluo3R3Rbbohxs726w3%252ByVPuLiiAbi18dnDYU284YI%252FiacS6Elbn0bB2ioX%252BrfI5kRYd2EasFrWyIW6E4Xg4aMxmLU9YVg0Qt5MHDHAWWb4bsfI%252FsEdZzoxz4jmLNn08R6nd7CZAlX5xhnyKdLeKkcpWeCA6MVcimsNK8em9zeYHdt1t%252BU7AUrGeJIMizqEuFPIYXeZQLCsgKYx2H%252BTfKysooZjRNl5Z4uNl3z7oIXQCV1YCNAMrYzjQzMOkrJd8RtyW1ihDaHufNoMn5iram5DUXPcHiF2Z0b9J565xUPJKccACjyM1HxxWfIeje0WJ8en0bY4ixnnVyIDQAJXUc7Vv1EnJvVt%252B%252Bi3cnlb60wxWV1LfYQMyx1vrMuotOLYsbZmOh%252FBgfoWYQr1aOtHK1LEAnPtlQoY4w%252FW8TOoLqszYSCR9ux3DaT7gzuEqS%252BHvIZeWTi2KDRUmtCoXpLvWz2oV1r02Fh5mJ6M7ibpqDAsH50enTBaXUVPksJolsnpsnEH6HRoJ4SzLwVomt4OezbVbZJBWa5G1UFXo8XCmg%252FSgUClH2Xsw1y6c8y1Uf4FHa08UNB0%252FOkU07%252FZSk8%252Bk1Wb7lO0%252FqoK8M689eYMrY8gwHaZNUo1pRdd5pYU6ZgthqSP4BJ7pScbtguStdcAiIgVhKvL6qPVwBaU59rcsx0g04WSI%252BU7vNAHCFmU3HdO0qUGud%7Campid%3APL_CLK%7Cclp%3A2334524 
-	- Standheizung 88,99€, nachbau Eberspächer: https://www.ebay.de/itm/334095391406?hash=item4dc9a31aae:g:vzcAAOSwsRRg9Xhd
+- Gekaufte Standheizung: https://www.ebay.de/itm/373512005885?_trkparms=ispr%3D1&hash=item56f70ce8fd:g:soYAAOSwyy9gWG0y&amdata=enc%3AAQAGAAACkPYe5NmHp%252B2JMhMi7yxGiTJkPrKr5t53CooMSQt2orsSafTQYbq3L7RBVAMi0K9cw%252FoDQxdwH8SlmMu9oSytzb00ttD2GQhbrwI4xKJN4w%252Bm1GWmWUAeeMTOzsZGuoHXnMHChrR%252Bf4r0QbiMgOPdzevPK1HKUY5x%252FGfmt%252F0EC0ZjsAhm2NxMKS3oUAixOepsaQ2wWPs0DiNWHcBxsPFxZ9amPEd53ujPyVbIXFTMYVlqAEUt%252FkOk0FCMm%252Ff5AGr8jyuys27%252FRkpZvFKx5YPBVg9KjR6X8e7QVTiWeFVC%252FRHBgeuMSdb06gJadNESAOGRBB4CbCUA3Ec6p0z92FcNqfecvLtQzUxDVvmqhIy3O64%252FRniXJ8gK5UCE8NgXjc9ELtINIcQRxkl1aUBKkjAuG44gQc6HXaZe2Zfpy%252BXU%252FVPVi9%252FGPhfVubYi3wq25rJUpZnN2db3i%252F%252BWJfI%252FKRKA0yFdWejSJtr39DGLEetvtDJyGLIPJZMb5d3luH1xsc%252Bw8KgccDHkVwmYbbOn1QFlP0P6n%252FxGzGjnL55C%252B0uvfHCFI5d447vOccN9rspq%E2%80%A6	
+
 ## Cons
-	- ~12l in 5 Tagen -> 10-20€ -> 60-120€ im monat
-	- Stromverbrauch
+- I: ~12l in 5 Tagen -> 10-20€ -> 60-120€ im monat
+- I: Stromverbrauch
 ## Infos
 - I: https://kopterforum.at/smalltalk-div-plauderei-f13/china-diesel-standheizung-top-oder-flop-t5427-s50.html
 - I: https://www.25u.de/diesel-luft-heizung-mit-einem-150-euro-chinablaster/

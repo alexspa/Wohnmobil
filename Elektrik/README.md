@@ -5,6 +5,7 @@
 - I: https://outdoornomaden.de/camper-elektrik/
 - I: 12V Laptop Laden: https://www.amumot.de/laptop-im-auto-laden-12v-netzteil/
 - I: Doppelbatteriesystem: https://matsch-und-piste.de/doppelt-haelt-besser-doppelbatteriesystem-die-technik-im-ueberblick/
+- I: Solaranlage: https://camperstyle.de/solaranlage-auf-dem-wohnmobil/#1-dach-vorreinigen
 
 ## Ausstattung
     - 230V ?
