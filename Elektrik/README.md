@@ -44,6 +44,7 @@
 
 #### Kabel:
 - !: Lieber ein Kabel mehr legen
+- !: "Seekabel" für feuchträume verwenden
 - !: Kurze Strecken -> weniger Leitungsbfall -> geringere kabelquerschnitte
 - ?: Querschnitt
 - ?: Längen
