@@ -1,4 +1,8 @@
 # Internet
 
-- ?: Raspberry py mit wlan-sim karten stick
-- ?: Wlan router mit sim Karte
+## Verteiler 
+    - ?: Raspberry py mit wlan-sim karten stick
+    - ?: Wlan router mit sim Karte
+
+## Anbieter
+    

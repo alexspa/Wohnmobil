@@ -44,7 +44,11 @@
 
 #### Kabel:
 - !: Lieber ein Kabel mehr legen
-- !: "Seekabel" für feuchträume verwenden
+- !: "Ölbeständige kabel" "Seekabel für feuchträume verwenden" mit verzinnten kupferlitzen
+    - I: H07 V-K = Flexibel mit PVC ummantelung
+    - I: H07 V-U = Starr mit PVC ummantelung
+    - I: H07 V-R = Starres Seil mit PVC Ummantelung 
+    - I verschiedene Kabelarten: https://elektricks.com/welche-kabelart-verwende-ich-wo/
 - !: Kurze Strecken -> weniger Leitungsbfall -> geringere kabelquerschnitte
 - ?: Querschnitt
 - ?: Längen
