@@ -196,7 +196,9 @@
         - I max 1000A, nenn 60A: https://www.ebay.de/itm/154291886548?hash=item23ec8359d4:g:uZkAAOSwmddf~-g6 
    4. Kabel 
       - [ ] 6mm² Kabel 17.5m
+	- I: https://www.ebay.de/itm/233941316716?hash=item3677fd346c:g:AkoAAOSw2HZg7r-B
       - [ ] 1.5mm² Kabel 15m
+	- I: https://www.ebay.de/itm/224170415001?epid=1204284203&hash=item3431991399:g:peQAAOSwrF1fV7CD
    5. Verbraucher
       - [x] Steckdosen
         - I: https://www.amazon.de/SUSSURRO-Zigarettenanz%C3%BCnder-Wasserdicht-Motorradmit-Anschlusskabel/dp/B088NS5617/ref=sr_1_1_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=12V+Steckdose&qid=1629117342&sr=8-1-spons&psc=1&smid=A277SU4OWOR1LI&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyN1lCMVVVSlRBRjlCJmVuY3J5cHRlZElkPUEwODU5MjEzMUdKNE1ZRFNaQ1JNRSZlbmNyeXB0ZWRBZElkPUEwMTczOTk5MUZCM1JWNTg5UjU5VSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
