@@ -193,11 +193,11 @@
          - I 100A pro panel 30A pro sicherung: https://www.amazon.de/Sicherungshalter-Sicherungskasten-Flachsicherungen-Wasserdicht-Sicherungsblock/dp/B08DHKNLLR/ref=sr_1_36?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=12V+Sicherungskasten+100A&qid=1629116776&sr=8-36 
       - [x] Batteriewahlschalter 100A
         - I: https://www.awn.de/products/batterie-umschalter-12v-100a?variant=31559123140743
-        - I max 1000A, nenn 60A: https://www.ebay.de/itm/154291886548?hash=item23ec8359d4:g:uZkAAOSwmddf~-g6 
+        - I: max 1000A, nenn 60A: https://www.ebay.de/itm/154291886548?hash=item23ec8359d4:g:uZkAAOSwmddf~-g6 
    4. Kabel 
-      - [ ] 6mm² Kabel 17.5m
+      - [x] 6mm² Kabel 17.5m
 	- I: https://www.ebay.de/itm/233941316716?hash=item3677fd346c:g:AkoAAOSw2HZg7r-B
-      - [ ] 1.5mm² Kabel 15m
+      - [x] 1.5mm² Kabel 15m
 	- I: https://www.ebay.de/itm/224170415001?epid=1204284203&hash=item3431991399:g:peQAAOSwrF1fV7CD
    5. Verbraucher
       - [x] Steckdosen
