@@ -4,9 +4,19 @@
 ## Cons
 - I: ~12l in 5 Tagen -> 10-20€ -> 60-120€ im monat
 - I: Stromverbrauch
+
+## Stromverbrauch
+- I: 12V 40W
+
 ## Infos
 - I: https://kopterforum.at/smalltalk-div-plauderei-f13/china-diesel-standheizung-top-oder-flop-t5427-s50.html
 - I: https://www.25u.de/diesel-luft-heizung-mit-einem-150-euro-chinablaster/
 
 ## Leistung
 - I: https://herman-unterwegs.de/wie-viel-kw-dieselheizung-wohnmobil/
+
+## Hitzeabweisung
+- I: Hitzeabweisende Folie
+- I: Keramikfasermatte
+- I: hitzeschutzmatte
+- I: Thermofolie
