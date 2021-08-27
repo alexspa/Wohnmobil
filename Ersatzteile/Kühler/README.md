@@ -10,10 +10,12 @@
 - [ ] Wasserpumpe
     - I: https://www.kfzteile24.de/ersatzteile-verschleissteile/kuehlung/wasserpumpen-dichtung/wasserpumpe?ktypnr=19873&notTypeSearch=Wasserpumpe
     - I: ~ 100€
-- [ ] Kühlergrill 
-- [ ]? Schläuche?
-- [ ]? Lüfter?
+- [ ] Motorkühler 
+- [ ] ? Schläuche?
+- [ ] ? Lüfter?
+- [ ] ? Schlauchschellen?
 - [ ] Kühlmittel
+
 
 
 ## Infos
