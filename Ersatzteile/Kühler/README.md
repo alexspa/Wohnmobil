@@ -1,23 +1,30 @@
 # Kühler
 
+## Anleitung
+- I: https://www.ducatoschrauber.de/kuehler-ducato-typ-244/
+
 ## Bauteile
-- [ ] Wasserpumpe
-    - I: https://www.kfzteile24.de/ersatzteile-verschleissteile/kuehlung/wasserpumpen-dichtung/wasserpumpe?ktypnr=19873&notTypeSearch=Wasserpumpe
-    - I: ~ 100€
-- [ ] Motorkühler 
-- [ ] ? Schläuche?
-- [ ] ? Lüfter?
-- [ ] ? Schlauchschellen?
-- [ ] Kühlmittel
+- [x] Motorkühler 
+- [x] Schlauchschellen
+- [x] Kühlmittel
+- [x] Destilliertes wasser
 
 ## Kühlmittel
 - I: Konzentrat + Wasser verdünnung 
 - I: Verhältniss c.a. 1:1
 - I: Markenbeispiel: Glysantin
-- ?: Destilliertes Wasser
+- !: Destilliertes Wasser zum verdünnen
+- I: Allgemein: https://www.adac.de/rund-ums-fahrzeug/reparatur-pflege-wartung/wartung-inspektion/kuehlerfrostschutz/
+- I: Welches Frostschutzmittel: https://www.motor-oel-guenstig.de/kuehlerfrostschutz-kaufen-darauf-kommt-es-an
+- I: Wechselintervall 3-5 Jahre
+- I: Füllmenge 11L siehe: https://cararac.de/kuhlmitte/peugeot/boxer.html
+- I: Typ: G30 oder G12+
 
-## Infos
-- I: Kosten Kühlergrill: ~50€
+## Wasserpumpe
+- I: https://www.kfzteile24.de/ersatzteile-verschleissteile/kuehlung/wasserpumpen-dichtung/wasserpumpe?ktypnr=19873&notTypeSearch=Wasserpumpe
+- I: ~ 100€
+## Motorkühler
+- I: Kosten Motorkühler: ~100€
 - I: Peugeot boxer WasssergrkühltWasser nur innerhalb des Motors und einem kurzen Schlauchweg außerhalb zirkulieren
 - I: Anleitung wechsel: https://www.autoteileprofi.de/ratgeber/kuehler-komplettanleitung-2523
 - I: Bauteile Luftkühler: Kühlergrill; Kühlerventilator; Kühlmittelpumpe; (Lüfter?)

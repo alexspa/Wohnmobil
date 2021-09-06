@@ -7,9 +7,9 @@
 - I: Da man den Ölstand nicht wirklich kontrollieren kann, wechsle es am Besten komplett.
 - I: Die Ablassschraube ist an der tiefsten Stelle, die Einfüllschraube an der höchsten Stelle des Getriebes.
 - ?: 3 Liter nachfüller über entlüftungsschraube um getriebezahnräder immer vollständig zu bedecken
-
 - I: befüllen tut man das von oben entweder über den schalter des rückwärtsganges oder über die getribe belüftung (beides nahe dem luftfilter/schlauch zum luftfilter.
 - I: dort rein kommen 2 Liter bestes 75W80 9730AA Peugeot orginalteilenummer Praktisch im 2 Liter gebinde 
 
 
 ## Getriebeöladditive
+- I: LiquiMoli CeraTec
