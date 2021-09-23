@@ -20,23 +20,35 @@
 	- [ ] ?: Batterieflüssigkeit nachfüllen?
 	- [X] I: Luftfilterwechsel 01.08.2021 220.000km
 	- [x] I: Pollenfilterwechsel 01.08.2021 220.000km
-	- [ ] !: Kraftstoffilterwechsl 
+	- [x] !: Kraftstoffilterwechsl 
 	- [x] !: Ölwechsel + Ölfilterwechsel 01.08.2021 220.000km
 	- [x] !: Kühlflüssigkeit nachfüllen
+    - [x] !: Küler wechsel
   	- [ ] !: Getriebeöl 
   	- [ ] ?: Getriebeölfilter
- 
 - [ ] !: Strom 
+    - [ ] !: Kabel ziehen
 	- [ ] !: Solar
+        - [ ] !: Loch bohren
+        - [ ] !: Spoiler anbringen
 	- [ ] !: Landstrom
 	- [ ] !: Lichtmaschiene
 - [ ] !: Innenausbau
-	- [ ] !: Dämmen
-	- [ ] !: Rostbehandlung
-	- [ ] !: Unterbau Boden
+	- [x] !: Dämmen Boden
+	- [x] !: Dämmen Seiten
+	- [x] !: Dämmen Oben
+	- [x] !: Rostbehandlung Hinten
+	- [ ] !: Rostbehandlung Führerhaus
+	- [x] !: Unterbau Boden
+	- [x] !: Nietmuttern setzen
 	- [ ] !: Unterbau Seiten
 	- [ ] !: Unterbau Dach
 - [ ] !: Heizen
+    - [ ] !: Standheitzung
+        - [x] !: Löcher bohren
+        - [ ] !: Tank Anzapfen
+        - [ ] !: Luft einlass und auspuff befestigen
 - [ ] !: Wasser
 - [ ] !: Gaß
 	- [ ] !: Gaßbehälter
+- [x] !: Dachfenster reparieren
