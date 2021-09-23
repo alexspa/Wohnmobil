@@ -25,8 +25,8 @@
 - I: Intervall: 40.000 km oder 2 Jahr
 
 ## Kraftstofffilter
-- I: Kilometerstand: 
-- I: Datum:
+- I: Kilometerstand: 220.000km
+- I: Datum: 01.08.2021 
 - I: Intervall: 40.000 km
 
 ## Kupplung
@@ -45,6 +45,15 @@
 - I: Kilometerstand: 
 - I: Datum:
 
-## Kühler
+## Motorkühler
+- I: Kilometerstand: 220.000km
+- I: Datum: 21.09.2021
+
+## Kühlmittel
+- I: Kilometerstand: 220.000km
+- I: Datum: 21.09.2021
+
+
+## Getriebeöl
 - I: Kilometerstand: 
-- I: Datum:
+- I: Datum: 
