@@ -17,11 +17,11 @@
 
 ## Todos
 - [ ] !: Service
-	- [ ] ?: Batterieflüssigkeit nachfüllen?
-	- [X] I: Luftfilterwechsel 01.08.2021 220.000km
-	- [x] I: Pollenfilterwechsel 01.08.2021 220.000km
+	- [ ] ?: Batterieflüssigkeit wechsel -> sondieren?
+	- [X] I: Luftfilterwechsel 
+	- [x] I: Pollenfilterwechsel
 	- [x] !: Kraftstoffilterwechsl 
-	- [x] !: Ölwechsel + Ölfilterwechsel 01.08.2021 220.000km
+	- [x] !: Ölwechsel + Ölfilterwechsel
 	- [x] !: Kühlflüssigkeit nachfüllen
     - [x] !: Küler wechsel
   	- [ ] !: Getriebeöl 
