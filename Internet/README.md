@@ -8,8 +8,12 @@
     - !: Kaufen: USB Sim Karten surf stick - Mobiles netzwerk verwenden
     - !: Kaufen: USB WLAN Antenne - Public WLAN Verbessern
     - !: Verlegen Lan Kabel
-    - ?: Raspberry py als Server
     - ?: Festplatte als ftp Speicher
 
 ## Anbieter
+    - I: Kostenlos Freifunk: https://www.freifunk-karte.de/
+    - I: Anbieter: https://www.freenet-funk.de/faq/
     
+## Server
+    - I: RaspberryPi
+    - I: Torbox:https://www.torbox.ch/
