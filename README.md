@@ -27,12 +27,13 @@
   	- [ ] !: Getriebeöl 
   	- [ ] ?: Getriebeölfilter
 - [ ] !: Strom 
-    - [ ] !: Kabel ziehen
+    - [x] !: Kabel ziehen
+    - [x] !: Batterie Anschließen
 	- [ ] !: Solar
         - [ ] !: Loch bohren
         - [ ] !: Spoiler anbringen
-	- [ ] !: Landstrom
-	- [ ] !: Lichtmaschiene
+	- [x] !: Landstrom
+	- [x] !: Lichtmaschiene
 - [ ] !: Innenausbau
 	- [x] !: Dämmen Boden
 	- [x] !: Dämmen Seiten
@@ -51,4 +52,5 @@
 - [ ] !: Wasser
 - [ ] !: Gaß
 	- [ ] !: Gaßbehälter
+	- [ ] !: TÜV
 - [x] !: Dachfenster reparieren

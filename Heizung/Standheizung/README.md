@@ -20,3 +20,23 @@
 - I: Keramikfasermatte
 - I: hitzeschutzmatte
 - I: Thermofolie
+
+## Kraftstoffanzapfung
+- I: Über Überlaufleitung/Rücklaufleitung vom Kraftstofftank
+- I: T-Stück; Schlauchverminderer/Schlauchadapter
+- I: Außendurchmesser Überlaufleitung ~ 25-26mm
+- I: Außendurchmesser Kraftstoffleitung Standheizung ~ 6mm
+- I: Produkte T-Stück:
+    - I: https://www.restaurieren.eu/t-stueck-25-mm-1-zoll-pvc-mit-schlauchtuellen
+    - I: https://www.ebay.de/itm/292010171145?hash=item43fd299b09:g:4BgAAOSwNnRYjIvR&var=591008054009
+    - I: https://www.ebay.de/itm/141329026614?hash=item20e7ddce36:g:73YAAOSwvgdhLQUk
+    - I: https://www.ebay.de/itm/164790189451?hash=item265e42bd8b:g:BsYAAOSwte5hSbzl&var=464269993793
+- I: Produkte Verbinder
+    - I: https://www.ebay.de/itm/141285881818?hash=item20e54b77da:g:5lIAAOSwjxlhHoeg
+    - I: https://www.ebay.de/itm/274736827790?epid=2254512823&hash=item3ff7974d8e:g:QswAAOSwGzBd2Clp
+- I: T-stück + 2* 25mm Schlauchtülle + 1*6mm Verbindungsschlauchtülle -> Einschrauben
+    
+## Kraftstoffpumpe
+- I: Pumpe so einbauen dass der Ausgang etwas nach oben zeigt, damit die Luft entweichen kann. 
+- I:
+    
