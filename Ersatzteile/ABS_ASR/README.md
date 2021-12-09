@@ -13,7 +13,20 @@
 ## Raddrehzahl-Sensor
 - I: Funktionsweise und Arten: https://www.hella.com/techworld/de/Technik/Sensoren-Aktuatoren/ABS-Sensor-pruefen-und-wechseln-4074/
 - I: Anleitung Prüfung: https://poezdonlin.ru/de/skazochnye-geroi/checking-sensors-abs-is-a-personal-experience-how-do-i-test-the-abs-sensor-with-a-tester/
+- I: Anleitung Prüfung: https://www.kfztech.de/kfztechnik/elo/sensoren/drehzahlsensor.htm
+- I: Anleitung Prüfung: https://www.expertentesten.de/abs-sensor-pruefen-mit-multimeter/
+- I: https://www.autoschrauber.de/00207/abs_sensor_kaputt_testen 
 - I: Kosten pro Sensor ~ 15-40€
 - I: Kosten pro Sensorkabelsatz ~20€
 
-## Steuergerät
+## Steuergerät und Hydraulikblock
+
+### Hydraulikblock
+ABS-Hydraulikblock:
+Peugeot 9661702380
+
+### Steuergerät
+ABS-Steuergerät:
+TRW 15710605
+ESP EBC440 15710505E
+SIEMENS VDO S118676001O
