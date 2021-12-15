@@ -24,14 +24,14 @@
 	- [x] !: Ölwechsel + Ölfilterwechsel
 	- [x] !: Kühlflüssigkeit nachfüllen
     - [x] !: Küler wechsel
+    - [ ] !: ABS
   	- [ ] !: Getriebeöl 
-  	- [ ] ?: Getriebeölfilter
 - [ ] !: Strom 
     - [x] !: Kabel ziehen
     - [x] !: Batterie Anschließen
-	- [ ] !: Solar
-        - [ ] !: Loch bohren
-        - [ ] !: Spoiler anbringen
+	- [X] !: Solar
+        - [X] !: Loch bohren
+        - [X] !: Spoiler anbringen
 	- [x] !: Landstrom
 	- [x] !: Lichtmaschiene
 - [ ] !: Innenausbau
@@ -42,15 +42,17 @@
 	- [ ] !: Rostbehandlung Führerhaus
 	- [x] !: Unterbau Boden
 	- [x] !: Nietmuttern setzen
-	- [ ] !: Unterbau Seiten
-	- [ ] !: Unterbau Dach
+	- [X] !: Unterbau Seiten
+	- [X] !: Unterbau Dach
+	- [ ] !: Bett
+	- [ ] !: Küche
 - [ ] !: Heizen
-    - [ ] !: Standheitzung
+    - [X] !: Standheitzung
         - [x] !: Löcher bohren
-        - [ ] !: Tank Anzapfen
-        - [ ] !: Luft einlass und auspuff befestigen
+        - [X] !: Tank Anzapfen
+        - [X] !: Luft einlass und auspuff befestigen
 - [ ] !: Wasser
 - [ ] !: Gaß
-	- [ ] !: Gaßbehälter
+	- [X] !: Gaßbehälter
 	- [ ] !: TÜV
 - [x] !: Dachfenster reparieren
