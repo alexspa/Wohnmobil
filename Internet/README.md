@@ -1,5 +1,19 @@
 # Internet
 
+# Verbindungsoptionen
+
+## Mobile Daten
+    - I: Modem access http://192.168.8.1/html/content.html#home
+    - I: Router access http://tplinkwifi.net/
+    - I: Mode Switch: Share ETH
+    - I: Operation mode: 3g/4g
+## Public WIFI
+    - I: Router access http://tplinkwifi.net/ 
+    - I: Mode Switch: Share Hotspot
+    
+## Modem
+    - I: HUAWEI E3372 LTE USB Stick
+    
 ## Router 
     - I: TP-LINK TL-WR902 W-LAN
         - I: Website:https://www.tp-link.com/de/support/download/tl-wr902ac/v3/#Firmware
