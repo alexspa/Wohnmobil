@@ -25,8 +25,8 @@
 	- [x] !: Kühlflüssigkeit nachfüllen
     - [x] !: Küler wechsel
     - [ ] !: ABS
-  	- [ ] !: Getriebeöl 
-- [ ] !: Strom 
+  	- [x] !: Getriebeöl 
+- [x] !: Strom 
     - [x] !: Kabel ziehen
     - [x] !: Batterie Anschließen
 	- [X] !: Solar
@@ -34,7 +34,7 @@
         - [X] !: Spoiler anbringen
 	- [x] !: Landstrom
 	- [x] !: Lichtmaschiene
-- [ ] !: Innenausbau
+- [x] !: Innenausbau
 	- [x] !: Dämmen Boden
 	- [x] !: Dämmen Seiten
 	- [x] !: Dämmen Oben
@@ -44,14 +44,14 @@
 	- [x] !: Nietmuttern setzen
 	- [X] !: Unterbau Seiten
 	- [X] !: Unterbau Dach
-	- [ ] !: Bett
-	- [ ] !: Küche
-- [ ] !: Heizen
+	- [x] !: Bett
+	- [x] !: Küche
+- [x] !: Heizen
     - [X] !: Standheitzung
         - [x] !: Löcher bohren
         - [X] !: Tank Anzapfen
         - [X] !: Luft einlass und auspuff befestigen
-- [ ] !: Wasser
+- [x] !: Wasser
 - [ ] !: Gaß
 	- [X] !: Gaßbehälter
 	- [ ] !: TÜV
