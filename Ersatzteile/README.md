@@ -54,7 +54,6 @@
 - I: Kilometerstand: 220.000km
 - I: Datum: 21.09.2021
 
-
 ## Getriebeöl
-- I: Kilometerstand: 
-- I: Datum: 
+- I: Kilometerstand: 225.000km
+- I: Datum: 28.04.2022
