@@ -10,6 +10,7 @@
 ## Öl
 - I: Kilometerstand: 220.000km
 - I: Datum: 01.08.2021
+- I: Intervall: 30.000 Kilometer oder ein Jahr
 
 ## Ölfilter
 - I: Kilometerstand: 220.000km 
@@ -35,12 +36,12 @@
 - I: Datum: ~2018-2019
 
 ## Bremsklötze
-- I: Kilometerstand: 
-- I: Datum:
+- I: Kilometerstand: 230.000km
+- I: Datum: 14.08.2023
 
 ## Bremsscheiben
-- I: Kilometerstand: 
-- I: Datum:
+- I: Kilometerstand: 230.000km
+- I: Datum: 14.08.2023
 
 ## Reifen
 - I: Kilometerstand: 
@@ -57,3 +58,33 @@
 ## Getriebeöl
 - I: Kilometerstand: 225.000km
 - I: Datum: 28.04.2022
+
+## Wasserpumpe
+- I: Kilometerstand: 230.000km
+- I: Datum: 01.02.2023
+
+## Querlenker
+-I: Kilometerstand ~230.000km
+-I: Datum: 14.08.2023
+
+## Flexrohr
+-I: Kilometerstand ~230.000km
+-I: Datum: 14.08.2023
+
+## TODO
+- [] ABS-Steuergerät/Radsensor/Sensorring/Sensorkabel
+- [] Antiebsrad Wasserpumpe an Motor
+- [x] Abgassystem
+- [ ] Motorlager
+- [] Drosselkappenstutzen
+- [] Wachs auftragen
+- [] Leitungen unterdrucksteuerung
+
+## Teile vom Schrotthändler
+- [] Scheinwerfer vorne
+- [] Scheinwerfer hinten
+- [] Motorsteuergerät wasserschutz
+- [] Blinkerbabdeckung spiegel links
+- [] Unterbodenschutz
+- [] Türen hinten Kabelführung (Um sie ganz zu öffnen)
+- [] Schiebetür teile
